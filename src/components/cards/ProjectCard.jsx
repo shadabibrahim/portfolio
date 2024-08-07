@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import "./styles.css"
 
 const Card = styled.div`
   width: 330px;
@@ -110,7 +111,9 @@ const Button = styled.a`
 const ProjectCard = ({ project }) => {
   return (
     <Card>
-      <Image src={project.image} />
+      <div className="image">
+        <img src={project.image} />
+      </div>
       <Details>
         <Title>{project.title}</Title>
         <Date>{project.date}</Date>
