@@ -5,7 +5,7 @@ export const Bio = {
     "Eager Front End Engineer, skilled in JavaScript and React.js, completed advanced training with AccioJob, aiming to apply expertise in crafting responsive and user-friendly web applications within an innovative development team.",
   github: "https://github.com/shadabibrahim",
   resume:
-    "https://drive.google.com/file/d/1I5qJWp1KR42c1W4jbOFltZiJhCix-MeD/view?usp=drive_link",
+    "https://drive.google.com/file/d/1TpKXCFAn0blCAiWOYrSsO7o69XNNsEOA/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/shadabibrahim/",
   twitter: "https://x.com/shadabibrahim",
   insta: "https://www.instagram.com/_shadabibrahim/",
