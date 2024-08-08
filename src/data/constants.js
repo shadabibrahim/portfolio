@@ -47,6 +47,16 @@ export const skills = [
           "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
       },
       {
+        name: "Ant Design",
+        image:
+          "https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg",
+      },
+      {
+        name:"Axios",
+        image:"https://axios-http.com/assets/logo.svg",
+      },
+      
+      {
         name: "Material UI",
         image:
           "data:image/png;base64,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",
@@ -83,9 +93,17 @@ export const skills = [
           "https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png",
       },
       {
-        name: "Adobe XD",
+        name:"SASS",
+        image:"https://sass-lang.com/assets/img/logos/logo.svg",
+      },
+      {
+        name:"Vite",
+        image:"https://vitejs.dev/logo.svg",
+      },
+      {
+        name: "Chrome DevTools",
         image:
-          "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
+          "data:image/webp;base64,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",
       },
       {
         name: "Figma",
