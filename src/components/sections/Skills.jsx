@@ -131,9 +131,9 @@ const Skills = () => {
 
         <SkillsContainer>
           {skills.map((skill, index) => (
-            <Tilt>
+            <Tilt key={index}>
               <Skill key={`skill-${index}`}>
-                <SkillTitle>{skill.title}</SkillTitle>
+                <SkillTitle >{skill.title}</SkillTitle>
                 <SkillList>
                   {skill.skills.map((item, index_x) => (
                     <SkillItem key={`skill-x-${index_x}`}>

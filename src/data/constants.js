@@ -112,7 +112,7 @@ export const experiences = [
     role: "Intern",
     company: "Analyze Infotech",
     date: "Sep 2023 - Feb 2024",
-    desc: "his project involved developing a comprehensive online learning platform designed to facilitate virtual classroom experiences. The platform provided features such as user authentication, course management, and interactive learning modules. The backend, built with ASP.NET, ensured robust and scalable performance, while SQL Server managed the database operations, including user data, course materials, and progress tracking.",
+    desc: "I developed a comprehensive online learning platform designed to facilitate virtual classroom experiences. The platform provided features such as user authentication, course management, and interactive learning modules. I built the backend with ASP.NET to ensure robust and scalable performance, while SQL Server managed the database operations, including user data, course materials, and progress tracking.",
     skills: ["HTML", "CSS", "JavaScript", "ASP.NET", "SQL Server"],
   },
 ];
@@ -185,7 +185,7 @@ export const projects = [
     description:
       "Explore a dynamic JavaScript project - a YouTube clone leveraging Google V3 APIs. Seamlessly integrate video streaming, user authentication, and interactive features for an immersive content-sharing experience.",
     image:
-      "https://private-user-images.githubusercontent.com/89182232/355730242-f6cca83b-79dc-4a05-bb2f-c17c0b381667.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMwMTg1NTEsIm5iZiI6MTcyMzAxODI1MSwicGF0aCI6Ii84OTE4MjIzMi8zNTU3MzAyNDItZjZjY2E4M2ItNzlkYy00YTA1LWJiMmYtYzE3YzBiMzgxNjY3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA3VDA4MTA1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3YWNmZWJlMmVhMzI2ZDU0MGI5NmM4ZmUyNTE5MTFmYmI0ZTkyNmUxYWY2N2ZmODUyZGQyNDBkZDEwNDQ5NTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.mVPxPmR_0Kd4cDu9XjwN5Qi6jpji-7qRevH7W9cjsVE",
+      "https://github.com/shadabibrahim/projectImages/blob/main/streamFlex.jpg?raw=true",
     tags: ["JavaScript", "Google V3 APIs", "HTML", "CSS", "DOM API"],
     category: "javaScript app",
     github: "https://github.com/shadabibrahim/StreamFlix.git",
@@ -215,9 +215,9 @@ export const projects = [
     id: 0,
     title: "Password-generator-react",
     description:
-      "A sleek To-Do List app with HTML, CSS, and JavaScript. Utilize HTML for structure, CSS for styling, and JavaScript for dynamic functionality. Implement features like adding tasks, marking completion, and deleting items for an efficient and user-friendly task management experience.",
+      "A React app that generates secure passwords using React hooks and useState, allowing users to customize password length and complexity for enhanced security.",
     image:
-      "https://private-user-images.githubusercontent.com/89182232/355787425-fedf6c52-2759-42bb-a913-416af5cd0cc0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMwMjkxNDAsIm5iZiI6MTcyMzAyODg0MCwicGF0aCI6Ii84OTE4MjIzMi8zNTU3ODc0MjUtZmVkZjZjNTItMjc1OS00MmJiLWE5MTMtNDE2YWY1Y2QwY2MwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA3VDExMDcyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM0N2MyYWM1ZmFjNTQ3NDEwNjRiNjVkZjg2NjNmZGJlYmU2ZTEyOTc5MTYwMzA4ZWY0ZDcxMjg0MWY0MTZlMTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.aeqydzuQhlzLdlZwsjRp5HGU82H8xEhEvAKKAx3d9wQ",
+      "https://github.com/shadabibrahim/projectImages/blob/main/pass-genrator-react.jpg?raw=true",
     tags: [
       "React Js",
       "React Hooks",
@@ -235,7 +235,7 @@ export const projects = [
     description:
       "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
     image:
-      "https://private-user-images.githubusercontent.com/89182232/355792125-87165b28-4636-4d42-bb71-e35d4d1caa74.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMwMjk4MzIsIm5iZiI6MTcyMzAyOTUzMiwicGF0aCI6Ii84OTE4MjIzMi8zNTU3OTIxMjUtODcxNjViMjgtNDYzNi00ZDQyLWJiNzEtZTM1ZDRkMWNhYTc0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA3VDExMTg1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJkZDUzMzQ2NTdlMGUyOTIwNDkwYmZhY2YxZjc3NzAxMDU3YWQ1NzYyNWNmZTVkMTRjODRiYTZkYzg1MmJhYjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.1bQtTP2XOYSLE1J3AdMAfP8GBuqnYR69rJusDPodZTQ",
+      "https://github.com/shadabibrahim/projectImages/blob/main/TaskMaster.jpg?raw=true",
     tags: ["java script", "dom-manipulation", "local-storage", "HTML", "CSS"],
     category: "javaScript app",
     github: "https://github.com/shadabibrahim/TaskMaster.git",
@@ -247,7 +247,7 @@ export const projects = [
     description:
       "Develop an engaging Quiz App using JavaScript to test users' knowledge. Employ dynamic HTML and CSS for a visually appealing interface. Utilize JavaScript to handle quiz logic, track scores, and provide instant feedback. Enhance user experience with multiple choice questions, and a responsive design, making learning interactive and enjoyable.",
     image:
-      "https://private-user-images.githubusercontent.com/89182232/355794965-58c55937-cf62-497a-9ef7-e674a741288e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMwMzA0OTksIm5iZiI6MTcyMzAzMDE5OSwicGF0aCI6Ii84OTE4MjIzMi8zNTU3OTQ5NjUtNThjNTU5MzctY2Y2Mi00OTdhLTllZjctZTY3NGE3NDEyODhlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA3VDExMjk1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZkNTBjMTdmZmEzOWJjYjJhZmYyM2U5OTIwODRkMmM2Y2U1MWFiZWQ5N2Y1ZjcxOTBkNjA1NTE4ZjNjYjcwMGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.wEDs_bZx8aanqeBP30T7--zK9EfJ9oLLjqAhPMN00mE",
+      "https://github.com/shadabibrahim/projectImages/blob/main/quickQuiuzPro.jpg?raw=true",
     tags: ["java script", "dom-manipulation", "local-storage", "HTML", "CSS"],
     category: "javaScript app",
     github: "https://github.com/shadabibrahim/QuickQuizPro.git",
@@ -259,7 +259,7 @@ export const projects = [
     description:
       "Experience innovation and professionalism on our business landing page. Crafted with HTML and CSS, it seamlessly blends sleek design and functionality. Navigate through a modern interface tailored to showcase your business's essence, services, and achievements with sophistication and style.",
     image:
-      "https://private-user-images.githubusercontent.com/89182232/355798361-9fb8edf5-2ec1-4ef3-821b-99b7ddaabdea.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMwMzExODcsIm5iZiI6MTcyMzAzMDg4NywicGF0aCI6Ii84OTE4MjIzMi8zNTU3OTgzNjEtOWZiOGVkZjUtMmVjMS00ZWYzLTgyMWItOTliN2RkYWFiZGVhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA3VDExNDEyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNjOTBjNDA1MDU3MTE3ZGJhNGQ1OGI3ODYxYTE4MWM4ZTRiNTdjMGJkZDM1OGNiMTE5NGY0YjUxZWYzZmI2MjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.igMs2W7fJPYzTXQaXJlY6T068Y55WCwQUH7U3AfcNGk",
+      "https://github.com/shadabibrahim/projectImages/blob/main/giftnShop.jpg?raw=true",
     tags: ["HTML", "CSS", "Bootstrap"],
     category: "html css",
     github: "https://github.com/shadabibrahim/Giftn-A-Complete-gift-shop.git",
@@ -271,7 +271,7 @@ export const projects = [
     description:
       "Experience dynamic visual transformations with our React-powered background color changer app. Effortlessly customize your digital space with a diverse palette, creating a vibrant and personalized atmosphere in just a click.",
     image:
-      "https://private-user-images.githubusercontent.com/89182232/355799937-e0722786-6249-4e53-899a-7c8b92d619ff.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMwMzE1NzIsIm5iZiI6MTcyMzAzMTI3MiwicGF0aCI6Ii84OTE4MjIzMi8zNTU3OTk5MzctZTA3MjI3ODYtNjI0OS00ZTUzLTg5OWEtN2M4YjkyZDYxOWZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA3VDExNDc1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE1N2VlOGZkNzE0MWM2OTgwNjAxMzJkNTViOWRiODRlNjExZjAxOGM3NzkwMWRhYjA4NGQ4MDBkZGY4NTRmZWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.IkihGXtRHRWFWlMoXTJ8AVgy7mV8mUEEqzGTer2LUOk",
+      "https://github.com/shadabibrahim/projectImages/blob/main/color-changer-react.jpg?raw=true",
     tags: [
       "React Js",
       "React Hooks",
@@ -289,7 +289,7 @@ export const projects = [
     description:
       "A React calculator utilizing the useState hook for dynamic input handling and result presentation. Enables addition, subtraction, multiplication, and division with input validation, displaying outcomes in green or errors in red as per conditions.",
     image:
-      "https://private-user-images.githubusercontent.com/89182232/355801596-22b92283-25ec-4287-b265-aac4c342d80e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMwMzE4NTAsIm5iZiI6MTcyMzAzMTU1MCwicGF0aCI6Ii84OTE4MjIzMi8zNTU4MDE1OTYtMjJiOTIyODMtMjVlYy00Mjg3LWIyNjUtYWFjNGMzNDJkODBlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA3VDExNTIzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU0NWEwNWJmMDhmNzY0MzliZjMwNWVlMTRmYWMwNjBjMzcwOTMzNDE5M2JkMWJmMDIxYTk0MTA4OWVjMGYyOTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.6m62jYXKwoNO2aBxkAb0wfHoIs_rHlpHoL0tRtpojio",
+      "https://github.com/shadabibrahim/projectImages/blob/main/reactCalci.jpg?raw=true",
     tags: [
       "React Js",
       "React Hooks",
@@ -307,7 +307,7 @@ export const projects = [
     description:
       "NASA Picture of the Day: A JavaScript app that fetches and displays daily images from NASA’s Astronomy Picture of the Day API, offering users stunning space visuals and detailed descriptions.",
     image:
-      "https://private-user-images.githubusercontent.com/89182232/355803731-a4596952-47fb-4025-a567-17337bf4140d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMwMzIyNjksIm5iZiI6MTcyMzAzMTk2OSwicGF0aCI6Ii84OTE4MjIzMi8zNTU4MDM3MzEtYTQ1OTY5NTItNDdmYi00MDI1LWE1NjctMTczMzdiZjQxNDBkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA3VDExNTkyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIwZWVjNjdkNmY3ZTM1ODIxYjFlYzhmY2E0ZWFiZGU4ODU4NTdmNWNjMzFhZjFkN2ZlMjU2ODZjZjgzM2FmMGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.NAcgwWPpnUGkWLADwDhgphl0Zf3Q33DGyrCOLVD_P-8",
+      "https://github.com/shadabibrahim/projectImages/blob/main/imageOftheDay.jpg?raw=true",
     tags: ["java script", "dom-manipulation", "HTML", "CSS"],
     category: "javaScript app",
     github: "https://github.com/shadabibrahim/Nasa_picture_ofTheDay.git",
@@ -319,7 +319,7 @@ export const projects = [
     description:
       "An MP3 Songs Player app built with HTML, CSS, and JavaScript offers a sleek interface for playing music. Features include playlist management, play/pause controls, volume adjustment, and seamless track navigation.",
     image:
-      "https://private-user-images.githubusercontent.com/89182232/355805506-9b1c5508-9bb8-4b59-8553-f08c51906a5d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMwMzI2NjksIm5iZiI6MTcyMzAzMjM2OSwicGF0aCI6Ii84OTE4MjIzMi8zNTU4MDU1MDYtOWIxYzU1MDgtOWJiOC00YjU5LTg1NTMtZjA4YzUxOTA2YTVkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA3VDEyMDYwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVkYjQwMjRiOWZhYWNlMWRjOWQ2YjJiZTk1NDAxMjM1MzA3ODg2ZGU3ZDA4NDkwM2I1ZTE1OTA4NTM2ZTIxMzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.KMYGGTTjTKzayS-OTNgm4BT02mkNn5dkztEtfnTjt5o",
+      "https://github.com/shadabibrahim/projectImages/blob/main/sksMusicPlayer.jpg?raw=true",
     tags: ["java script", "dom-manipulation", "HTML", "CSS"],
     category: "javaScript app",
     github: "https://github.com/shadabibrahim/SKS-Music.git",
@@ -331,7 +331,7 @@ export const projects = [
     description:
       "Empower your website with a secure edge using this HTML, CSS, and JavaScript-based Random Password Generator. With an intuitive UI, it effortlessly crafts robust, unique passwords, elevating your users' online security. Seamlessly integrating into your web pages, it ensures a hassle-free experience while fortifying digital protection.",
     image:
-      "https://private-user-images.githubusercontent.com/89182232/355806670-b572fd74-e947-4b35-83d7-2595d341a6f4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMwMzI5MTQsIm5iZiI6MTcyMzAzMjYxNCwicGF0aCI6Ii84OTE4MjIzMi8zNTU4MDY2NzAtYjU3MmZkNzQtZTk0Ny00YjM1LTgzZDctMjU5NWQzNDFhNmY0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA3VDEyMTAxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM5Mjk3YmFhYjk1OGRlMDRmN2QwMTYwMjk5MDAzOGMzOTBkMWNmMWQ3ZjkxZmQ1MTljZDIwM2MzYzk1YzU4MmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Ltt6ZSHfP_JzIBRD55ht4xI5JgvUQebsPjBoWv9pUmY",
+      "https://github.com/shadabibrahim/projectImages/blob/main/passGenius.jpg?raw=true",
     tags: ["java script", "dom-manipulation", "HTML", "CSS"],
     category: "javaScript app",
     github: "https://github.com/shadabibrahim/PassGenius.git",
@@ -343,7 +343,7 @@ export const projects = [
     description:
       "WeatherVista: Your sleek, user-friendly weather companion.With real-time updates and search box, for an enhanced weather tracking experience.",
     image:
-      "https://private-user-images.githubusercontent.com/89182232/355808216-f5c0a2ee-719e-42b6-8460-9c4dfe411066.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMwMzMyMTYsIm5iZiI6MTcyMzAzMjkxNiwicGF0aCI6Ii84OTE4MjIzMi8zNTU4MDgyMTYtZjVjMGEyZWUtNzE5ZS00MmI2LTg0NjAtOWM0ZGZlNDExMDY2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA3VDEyMTUxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNhOTkzYTg2NDQ3Njg0NjNjNmU5Y2ZkMTdmN2EyODU2MzhjODRhMDVhODFkZWNmOWJlNzc4MzEyNjVkYjg5MDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.VT6YUeeAr0RN4nuxYAe6JcCTIdXq46w5b39jL224Q9s",
+      "https://github.com/shadabibrahim/projectImages/blob/main/weatherVista.jpg?raw=true",
     tags: ["java script", "dom-manipulation", "fetch-api", "HTML", "CSS"],
     category: "javaScript app",
     github: "https://github.com/shadabibrahim/WeatherVista.git",
@@ -355,7 +355,7 @@ export const projects = [
     description:
       "Crafted with HTML, CSS, and JavaScript, our sleek Notes App provides an intuitive platform for seamless note-taking. Enjoy a responsive and visually appealing design, coupled with efficient functionality, ensuring a user-friendly experience for organizing thoughts effortlessly.",
     image:
-      "https://private-user-images.githubusercontent.com/89182232/355809849-8fc897d0-9f45-40d8-ad20-47df42789ad2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMwMzM0OTMsIm5iZiI6MTcyMzAzMzE5MywicGF0aCI6Ii84OTE4MjIzMi8zNTU4MDk4NDktOGZjODk3ZDAtOWY0NS00MGQ4LWFkMjAtNDdkZjQyNzg5YWQyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA3VDEyMTk1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI0YTY0NDc4NzkwY2Q5ZDJmMzE2NGRkZDE1ZGY1ODhjNGU5OTk4ZWMwZDIxOGNmMDQyZmM2NWJmMWU5ZTJjZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.aYP-hmC_go6KKelt_xkKOhrrJAxwIIoUX4JlCDDlDWA",
+      "https://github.com/shadabibrahim/projectImages/blob/main/quickNotes..jpg?raw=true",
     tags: ["java script", "dom-manipulation", "fetch-api", "HTML", "CSS"],
     category: "javaScript app",
     github: "https://github.com/shadabibrahim/QuickNotes.git",
@@ -367,7 +367,7 @@ export const projects = [
     description:
       "A dynamic stopwatch web app created with HTML, CSS, and JavaScript. It includes start, stop, and reset functionalities, offering precise time tracking with an intuitive and user-friendly interface.",
     image:
-      "https://private-user-images.githubusercontent.com/89182232/355812350-fd868305-8c40-4da7-992d-3bd434ba5498.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMwMzM4OTksIm5iZiI6MTcyMzAzMzU5OSwicGF0aCI6Ii84OTE4MjIzMi8zNTU4MTIzNTAtZmQ4NjgzMDUtOGM0MC00ZGE3LTk5MmQtM2JkNDM0YmE1NDk4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA3VDEyMjYzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVkOTk4YjhmNzAwNGIwOGFkMTFjZGZkNTkyZDc1MmZhZTdkZTk4NzE5YWE4YzQ5YTc1YWVlN2I2NmUwNmJjN2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.d7ycKxwUq2gpP-jYwyJzVRMz5wBrVa6Oj5SFp1Dpn8E",
+      "https://github.com/shadabibrahim/projectImages/blob/main/stopWatch.jpg?raw=true",
     tags: ["java script", "HTML", "CSS"],
     category: "html css",
     github: "https://github.com/shadabibrahim/stopWatch.git",
@@ -379,7 +379,7 @@ export const projects = [
     description:
       "A digital clock built with HTML, CSS, and JavaScript. It displays current time with hours, minutes, and seconds, updating in real-time, and features a clean, modern design for easy readability.",
     image:
-      "https://private-user-images.githubusercontent.com/89182232/355815008-947e859e-05e0-49cc-8988-919606df9f2c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMwMzQxNDEsIm5iZiI6MTcyMzAzMzg0MSwicGF0aCI6Ii84OTE4MjIzMi8zNTU4MTUwMDgtOTQ3ZTg1OWUtMDVlMC00OWNjLTg5ODgtOTE5NjA2ZGY5ZjJjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA3VDEyMzA0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAwM2VhOGY4MDg4YWE3NDkyNGRmODgwYmI4MDg1NzAzNTdmZmI1YjcwZWQ2Njc1MWJhOGQyMGQwM2JhMDRkODAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.3xi_9rUbqjWb1Nou-lcpxwmxTVDf-AaTfMzhTe3nvJo",
+      "https://github.com/shadabibrahim/projectImages/blob/main/DigitalClock.jpg?raw=true",
     tags: ["java script", "HTML", "CSS"],
     category: "html css",
     github: "https://github.com/shadabibrahim/DigitalClock.git",
@@ -391,7 +391,7 @@ export const projects = [
     description:
       "This app detects your IP address to retrieve location information, then displays the exact position on Google Maps. It also provides postal details associated with the IP, offering a comprehensive view of geographic and address-related data.",
     image:
-      "https://private-user-images.githubusercontent.com/89182232/355817982-dd54e103-1a94-4375-8021-1595847d2454.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMwMzQ1MjMsIm5iZiI6MTcyMzAzNDIyMywicGF0aCI6Ii84OTE4MjIzMi8zNTU4MTc5ODItZGQ1NGUxMDMtMWE5NC00Mzc1LTgwMjEtMTU5NTg0N2QyNDU0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA3VDEyMzcwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZiY2I2NGY0NzZjMWE1MzUxYmMwOGU0MmNlZmFkNTM1NjM5Nzc5ODE0NTVhOTA5NzVkNDEzOTU2NjcxMzRmYzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.VOAygGuDplUostR-l7vq4hC_c6wiIL444UFSkAnCgXs",
+      "https://github.com/shadabibrahim/projectImages/blob/main/geoLocation.jpg?raw=true",
     tags: ["java script", "dom-manipulation", "fetch-api", "HTML", "CSS"],
     category: "javaScript app",
     github: "https://github.com/shadabibrahim/geoLocation-F3-ModuleTest.git",
@@ -403,7 +403,7 @@ export const projects = [
     description:
       "Drum Kit web app created with HTML, CSS, and JavaScript. Users can play various drum sounds by clicking buttons or pressing corresponding keys, offering an interactive and engaging musical experience.",
     image:
-      "https://private-user-images.githubusercontent.com/89182232/355821208-08e6d731-77e4-47df-b355-899f56c224c5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMwMzUxMTEsIm5iZiI6MTcyMzAzNDgxMSwicGF0aCI6Ii84OTE4MjIzMi8zNTU4MjEyMDgtMDhlNmQ3MzEtNzdlNC00N2RmLWIzNTUtODk5ZjU2YzIyNGM1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA3VDEyNDY1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMyNDc0NzA1YTFlYTliNGYwY2E5OWVjMjY2NzJmYzQ5NzFjYmQ2ZWQyOWZjOWI4MDMzZDU0NTA4NTM3YTk5Y2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.qEBmNcMABcJ3B0Uh-uOEobE6lbpTt6saPlPUcTkAuvI",
+      "https://github.com/shadabibrahim/projectImages/blob/main/drum-kit.jpg?raw=true",
     tags: ["java script", "dom-manipulation", "HTML", "CSS"],
     category: "javaScript app",
     github: "https://github.com/shadabibrahim/Drum-Kit.git",

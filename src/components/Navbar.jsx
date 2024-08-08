@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Link as LinkR } from "react-router-dom";
+// import { Link as LinkR } from "react-router-dom";
 import styled, { useTheme } from "styled-components";
 import { Bio } from "../data/constants";
 import { MenuRounded } from "@mui/icons-material";
@@ -26,14 +26,14 @@ const NavbarContainer = styled.div`
   justify-content: space-between;
   font-size: 1rem;
 `;
-const NavLogo = styled(LinkR)`
-  width: 80%;
-  padding: 0 6px;
-  font-weight: 500;
-  font-size: 18px;
-  text-decoration: none;
-  color: inherit;
-`;
+// const NavLogo = styled(LinkR)`
+//   width: 80%;
+//   padding: 0 6px;
+//   font-weight: 500;
+//   font-size: 18px;
+//   text-decoration: none;
+//   color: inherit;
+// `;
 
 const NavItems = styled.ul`
   width: 100%;
