@@ -144,7 +144,7 @@ export const projects = [
     date: "Jul 2024 - Aug 2024",
     description:
       "Your personal finance tracker app, integrated with Firebase authentication, offers email/password and Google sign-ins. It empowers users to monitor income, expenses, and balance, visualizing financial data through line and pie charts. The app boasts transaction search, categorized tables, sort options by date/amount, and pagination for navigation.",
-    image:"https://private-user-images.githubusercontent.com/89182232/355165608-5ab6a205-43c7-4f66-af70-e77c7afcce80.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMwMTc3OTMsIm5iZiI6MTcyMzAxNzQ5MywicGF0aCI6Ii84OTE4MjIzMi8zNTUxNjU2MDgtNWFiNmEyMDUtNDNjNy00ZjY2LWFmNzAtZTc3YzdhZmNjZTgwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA3VDA3NTgxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNhZjdkMTcxZjk4NmUxMjIxOTc4MDRkY2QzNTNiZmFlZmUzYzBkNDdjMTJjYjFlODU1M2FhOGE3YTFiMWVjY2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.9BgDoKOqbJUE7gaZooW6lJJWhSQlChxCb7k-g5hm7hY",
+    image:"https://github.com/shadabibrahim/projectImages/blob/main/chart.jpg?raw=true",
     tags: [
       "React Js",
       "Firebase",
