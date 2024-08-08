@@ -144,7 +144,8 @@ export const projects = [
     date: "Jul 2024 - Aug 2024",
     description:
       "Your personal finance tracker app, integrated with Firebase authentication, offers email/password and Google sign-ins. It empowers users to monitor income, expenses, and balance, visualizing financial data through line and pie charts. The app boasts transaction search, categorized tables, sort options by date/amount, and pagination for navigation.",
-    image:"https://github.com/shadabibrahim/projectImages/blob/main/chart.jpg?raw=true",
+    image:
+      "https://github.com/shadabibrahim/projectImages/blob/main/expense-tracker.jpg?raw=true",
     tags: [
       "React Js",
       "Firebase",
@@ -163,7 +164,7 @@ export const projects = [
     description:
       "A cryptocurrency React app that fetches real-time data from an API using Axios and renders it into a table with Ant Design. It features a search function and allows sorting by market cap and percentage change for easy data analysis.",
     image:
-      "https://private-user-images.githubusercontent.com/89182232/355859193-e851a298-cf95-4cff-9bfa-61872ce2f462.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMwNDQzODIsIm5iZiI6MTcyMzA0NDA4MiwicGF0aCI6Ii84OTE4MjIzMi8zNTU4NTkxOTMtZTg1MWEyOTgtY2Y5NS00Y2ZmLTliZmEtNjE4NzJjZTJmNDYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA3VDE1MjEyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAzMDQwNmNmZGY1NzdmYWQwMGNmMjdhOTE3MTE1YzAwMzFmZTU0NmViMTQxMDQ3MmNiNWIxMTU0OTBiYTQzOWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.dquLs0v1jsKMKDofwUmkf8dzbI8v12kGCd9gFzNve2I",
+      "https://github.com/shadabibrahim/projectImages/blob/main/crypto_tracker.jpg?raw=true",
     tags: [
       "React Js",
       "React Hooks",
@@ -196,7 +197,7 @@ export const projects = [
     description:
       "A product rendering React app that fetches real-time data from an API and displays it in cards. It features a search function, an add button to add new products, and options to increase or decrease the price of each product.",
     image:
-      "https://private-user-images.githubusercontent.com/89182232/355876614-f5590c29-3db4-48f2-aeb6-315e1762f00f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMwNDQxMTUsIm5iZiI6MTcyMzA0MzgxNSwicGF0aCI6Ii84OTE4MjIzMi8zNTU4NzY2MTQtZjU1OTBjMjktM2RiNC00OGYyLWFlYjYtMzE1ZTE3NjJmMDBmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA3VDE1MTY1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUwNzliM2Y2M2EzMGY3ZTVkYmRiZjcxYjFkZGY4OTlkYTg3Y2IxMTQ4MmE0MGU2YTczZDZjNTAxYTUzYjRjM2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.lHdPbnVZK1N7xIZi_dj8PLEVFSskh4nX3nwm3MGjwq0",
+      "https://github.com/shadabibrahim/projectImages/blob/main/CardCatalog.jpg?raw=true",
     tags: [
       "React Js",
       "React Hooks",
@@ -408,5 +409,4 @@ export const projects = [
     github: "https://github.com/shadabibrahim/Drum-Kit.git",
     webapp: "https://shadabibrahim.github.io/Drum-Kit/",
   },
- 
 ];
