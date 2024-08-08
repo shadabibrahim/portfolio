@@ -111,9 +111,7 @@ const Button = styled.a`
 const ProjectCard = ({ project }) => {
   return (
     <Card>
-      <div className="image">
-        <img src={project.image} />
-      </div>
+        <Image src={project.image} />
       <Details>
         <Title>{project.title}</Title>
         <Date>{project.date}</Date>
