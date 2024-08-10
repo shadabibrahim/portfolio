@@ -118,7 +118,7 @@ export const experiences = [
   {
     id: 0,
     img: "https://course.acciojob.com/acciojob_logo.svg",
-    role: "MERN Full Stack Development",
+    role: "Training in MERN Stack Development",
     company: "Acciojob",
     date: "Sep 2022 - Present",
     desc: "Learning Frontend with DSA. Acquired in-depth knowledge of various technologies and frameworks used in web development constituting the MERN stack.Adept at crafting responsive and visually captivating user interfaces using React.js. Utilized tools like Bootstrap, Tailwind, and Webpack for efficient web development. Completed Successfully 180+ days streak in Coding, receiving recognition for dedication and achievement in Front-end development.",
